@@ -1,0 +1,23 @@
+[
+
+    { "id":1,
+    "name": "surya",
+    "email":"suriyamohan47@gamil.com",
+    "phoneNo":"9441795236"
+   },
+    { "id":2,
+    "name": "mohan",
+    "email":"mohantech47@gamil.com",
+    "phoneNo":"7629945678"
+   },
+    { "id":3,
+    "name": "virat",
+    "email":"virattechno@gamil.com",
+    "phoneNo":"8629945678"
+  }
+
+
+
+
+
+]
